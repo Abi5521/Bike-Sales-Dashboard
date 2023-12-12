@@ -1,1 +1,1 @@
-# Bike-Sales-Dashboard
+This project involves the creation of a dynamic and visually appealing dashboard for analyzing bike sales data. Leveraging Microsoft Excel, I designed and implemented an interactive dashboard that provides comprehensive insights into key performance metrics.
